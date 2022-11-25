@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">The 2022 MacBook Air is one of the first machines to have Apple’s next-generation M2 chip. It is an incremental upgrade from the once-in-a-generation leap made by the M1 in 2020 but is still up to 18% faster, with 35% more powerful graphics.</string>
+    <string name="content_specs_display">Liquid Retina display\n13.6-inch (diagonal) LED-backlit display with IPS technology\n2560-by-1664 native resolution at 224 pixels per inch with\nsupport for 1 billion colors\n500 nits brightness\nWide color (P3)\nTrue Tone technology</string>
+    <string name="content_specs_size">Height: 0.44 inch (1.13 cm)\nWidth: 11.97 inches (30.41 cm)\nDepth: 8.46 inches (21.5 cm)\nWeight: 2.7 pounds (1.24 kg)</string>
+    <string name="content_specs_battery">Up to 18 hours Apple TV app movie playback\nUp to 15 hours wireless web\n52.6-watt‑hour lithium‑polymer battery\n30W USB-C Power Adapter (included with M2 with 8-core GPU)\n35W Dual USB-C Port Compact Power Adapter (included with M2 with 10-core GPU and 512GB storage, configurable with M2 with 8-core GPU)\nUSB-C to MagSafe 3 Cable\nFast-charge capable with 67W USB-C Power Adapter</string>
+    <string name="stock">1000 stock</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Andy Rubin</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$1.199</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="phone_image">phone image</string>
+    <string name="success_buy">Success!\nBerhasil Membeli Macbook Air M2</string>
+    <string name="cp">Hubungi CP</string>
+</resources>
